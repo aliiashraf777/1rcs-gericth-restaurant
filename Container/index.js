@@ -7,8 +7,8 @@ import Header from './Header/Header';
 import Intro from './Intro/Intro';
 import Laurels from './Laurels/Laurels';
 import SpecialMenu from './SpecialMenu/SpecialMenu';
-
-export default {
+ 
+export {
     AboutUs,
     Chef,
     FindUs,
