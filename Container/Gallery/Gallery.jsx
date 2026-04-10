@@ -3,7 +3,7 @@ import './Gallery.css';
 import { SubHeading } from '../../Components';
 import { images } from '../../Constants';
 import { BsInstagram, BsArrowLeftShort, BsArrowRightShort } from 'react-icons/bs';
-
+ 
 import { useRef } from 'react';
 
 
