@@ -3,7 +3,7 @@ import './Laurels.css';
 import { SubHeading } from '../../Components';
 
 import { images, beverajes } from '../../Constants';
-
+ 
 
 const AwardCard = ({ award: { imgUrl, title, subtitle } }) => (
     <div className="app__laurels_awards-card">
