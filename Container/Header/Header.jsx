@@ -1,7 +1,7 @@
 import { SubHeading } from '../../Components';
 import './Header.css';
 import {images} from '../../Constants';
-
+ 
 const Header = () => {
     return (
         <div className='app__header app__wrapper section__padding' id='home'>
