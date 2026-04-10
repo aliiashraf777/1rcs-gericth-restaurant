@@ -1,6 +1,6 @@
 import { images } from '../../Constants';
 import './AboutUs.css';
-
+ 
 const AboutUs = () => {
     return (
         <div className='app__aboutus app__bg flex__center section__padding' id='about'>
