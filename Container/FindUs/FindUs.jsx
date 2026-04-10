@@ -2,7 +2,7 @@ import './FindUs.css';
 
 import { SubHeading } from '../../Components';
 import { images } from '../../Constants';
-
+ 
 const FindUs = () => {
     return (
         <div
