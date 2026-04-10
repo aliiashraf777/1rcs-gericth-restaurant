@@ -2,7 +2,7 @@ import './SpecialMenu.css'
 
 import { images, beverajes } from '../../Constants';
 import { SubHeading, MenuItem } from '../../Components';
-
+ 
 const Menu = () => {
     return (
         <div className='app__specialMenu flex__center section__padding' id='menu'>
