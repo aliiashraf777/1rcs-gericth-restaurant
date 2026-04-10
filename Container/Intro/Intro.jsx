@@ -1,7 +1,7 @@
 // import React from 'react';
 
 import './Intro.css';
-
+ 
 import { BsFillPlayFill, BsPauseFill } from 'react-icons/bs';
 
 import { meal } from '../../Constants'
