@@ -1,7 +1,7 @@
 import './NewsLetter.css';
 
 import SubHeading from '../SubHeading/SubHeading';
-
+ 
 const NewsLetter = () => {
     return (
         <div className='app__newsletter'>
