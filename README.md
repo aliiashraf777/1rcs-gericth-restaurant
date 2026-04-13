@@ -57,8 +57,8 @@ It focuses on aesthetic UI, smooth animations, and responsive design to showcase
 src/
 ├── assets/
 ├── components/
-├── sections/
-├── utils/
+├── constants/
+├── container/
 └── App.jsx
 ```
 
@@ -71,7 +71,7 @@ npm run dev
 ```
 
 ## 🔗 Live Demo  
-https://your-live-link.com  
+https://1rcs-gericth-restaurant.vercel.app/  
 
 ## 💻 Repository  
 https://github.com/aliiashraf777/1rcs-gericth-restaurant  
